@@ -1,0 +1,5 @@
+receiver/.env
+web/config.js
+__pycache__/
+*.pyc
+node_modules/
